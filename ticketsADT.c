@@ -19,7 +19,6 @@ typedef struct dayly
 {
     TList visitors;
     TList begin;
-    size_t allocSize;
     int tickets;
 
 }dayly;
